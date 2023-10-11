@@ -26,6 +26,6 @@ I am constantly learning and striving to become an experienced software develope
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ## 📊 GitHub Stats:
-<span align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikitaberezhnyj&show_icons=true&locale=en&layout=compact" alt="nikitaberezhnyj" /></span><br/>
-<span align="center"><img src="https://github-readme-stats.vercel.app/api?username=nikitaberezhnyj&show_icons=true&locale=en" alt="nikitaberezhnyj" /></span><br/>
-<span align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitaberezhnyj&" alt="nikitaberezhnyj" /></span>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nikitaberezhnyj&show_icons=true&locale=en&layout=compact&theme=dark) <br/><br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikitaberezhnyj&show_icons=true&locale=en&theme=dark) <br/><br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikitaberezhnyj&show_icons=true&locale=en&theme=dark)
