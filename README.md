@@ -4,6 +4,8 @@
 
 I am constantly learning and striving to become an experienced software developer.
 
+![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=NikitaBerezhnyj&repo=NikitaBerezhnyj)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikita-berezhnyj-4b63b3264)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22724284)
