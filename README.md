@@ -1,8 +1,8 @@
 # Hi 👋, I'm Nikita Berezhnyj
 
-**A beginner developer from Ukraine 🇺🇦** I'm interested in all aspects of software development, so I'm focused on developing projects that interest me. I already have experience with C, C++, C#, Python, Rust, Tauri, JavaScript, HTML, CSS, Bootstrap, React, Godot, and Ren'Py. I also have experience with Git and Linux.
+**_I'm a budding software developer from Ukraine :ukraine:_** with a keen interest in various facets of software development. My focus is on creating projects that inspire me and allow me to grow. I have hands-on experience with languages and technologies such as C, C++, C#, Python, Rust, Tauri, JavaScript, HTML, CSS, Bootstrap, React, Godot, Ren'Py, and others. Additionally, I'm well-versed in using Git and navigating Linux environments.
 
-I am constantly learning and strive to become an experienced software developer.
+My journey is fueled by a desire to learn continually and to evolve into a skilled software developer.
 
 ## 🌐 Socials:
 
@@ -22,29 +22,34 @@ I am constantly learning and strive to become an experienced software developer.
         <td><img alt="C#" src="https://skillicons.dev/icons?i=cs" width="100"></td>
         <td><img alt="Python" src="https://skillicons.dev/icons?i=python" width="100"></td>
         <td><img alt="Rust" src="https://skillicons.dev/icons?i=rust" width="100"></td>
-        <td><img alt="Tauri" src="https://skillicons.dev/icons?i=tauri" width="100"></td>
         <td><img alt="HTML" src="https://skillicons.dev/icons?i=html" width="100"></td>
         <td><img alt="CSS" src="https://skillicons.dev/icons?i=css" width="100"></td>
         <td><img alt="JavaScript" src="https://skillicons.dev/icons?i=js" width="100"></td>
-        <td><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" width="100"></td>
-        <td><img alt="React" src="https://skillicons.dev/icons?i=react" width="100"></td>
-        <td><img alt="Android Studio" src="https://skillicons.dev/icons?i=androidstudio" width="100"></td>
+        <td><img alt="TypeScript" src="https://skillicons.dev/icons?i=typescript" width="100"></td>
     </tr>
     <tr>
+        <td><img alt="React" src="https://skillicons.dev/icons?i=react" width="100"></td>
+        <td><img alt="NodeJS" src="https://skillicons.dev/icons?i=nodejs" width="100"></td>
+        <td><img alt="Express" src="https://skillicons.dev/icons?i=express" width="100"></td>
+        <td><img alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" width="100"></td>
+        <td><img alt="NextJS" src="https://skillicons.dev/icons?i=nextjs" width="100"></td>
+        <td><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" width="100"></td>
+        <td><img alt="Tauri" src="https://skillicons.dev/icons?i=tauri" width="100"></td>
         <td><img alt="Godot" src="https://skillicons.dev/icons?i=godot" width="100"></td>
         <td><img alt="RenPy" src="https://icon.icepanel.io/Technology/svg/Ren%27Py.svg" width="100"></td>
-        <td><img alt="npm" src="https://skillicons.dev/icons?i=npm" width="100"></td>
-        <td><img alt="yarn" src="https://skillicons.dev/icons?i=yarn" width="100"></td>
-        <td><img alt="VS code" src="https://skillicons.dev/icons?i=vscode" width="100"></td>
-        <td><img alt="Shell" src="https://skillicons.dev/icons?i=bash" width="100"></td>
+    </tr>
+    <tr>
+        <td><img alt="Android Studio" src="https://skillicons.dev/icons?i=androidstudio" width="100"></td>
+        <td><img alt="Docker" src="https://skillicons.dev/icons?i=docker" width="100"></td>
         <td><img alt="GitHub" src="https://skillicons.dev/icons?i=github" width="100"></td>
+        <td><img alt="VS Code" src="https://skillicons.dev/icons?i=vscode" width="100"></td>
         <td><img alt="Markdown" src="https://skillicons.dev/icons?i=markdown" width="100"></td>
+        <td><img alt="Shell" src="https://skillicons.dev/icons?i=bash" width="100"></td>
         <td><img alt="Linux" src="https://skillicons.dev/icons?i=linux" width="100"></td>
-        <td><img alt="Figam" src="https://skillicons.dev/icons?i=figma" width="100"></td>
-        <td><img alt="Krita" src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZWVmMzdiIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+S3JpdGE8L3RpdGxlPjxwYXRoIGQ9Ik0uNjUyLjc2YS42MjUuNjI1IDAgMDAtLjUuMjQ2Yy0uMzUyLjQ0OC0uMDM1Ljg5OC4zNjIgMS4yNjIuMjA2LjE4OSAxLjc3IDEuNzk0IDMuNDI4IDMuNTI3YTExLjA1NCAxMS4wNTQgMCAwMTEuODE1LTEuOTgzQzMuNjY3IDIuNTE1IDEuNjk0IDEuMjY2IDEuNDYxIDEuMSAxLjIwMS45MTQuOTE3Ljc2Mi42NTIuNzZ6bTUuMTA1IDMuMDUyYzEuODQ4IDEuMTQ4IDMuNzg2IDIuMzMyIDQuNjkzIDIuODQgMS40NjkuODIxIDMuNzU4IDIuNjg0IDQuMDkyIDQuNDM0LjUzNS40NjYgMi4xODIgMS45MTYgMi41OTYgMi40MTMuNjk4LS4yMTEgMS41MTguMTMzIDIuMDYgMS4xMi44NjYgMS41ODMuMjI3IDMuNzQ3LTEuOTY4IDQuOTg4YTUuNDIgNS40MiAwIDAxLS4yOTYuMjY3bC4yOTYtLjI2N2MxLjE0LTEuNDY4LS43MTQtMi40NC0xLjE3NS0zLjg2NGEyLjA2IDIuMDYgMCAwMS0uMTEtLjc4Yy0uNTMzLS4yODItMi4xMS0xLjQ1Mi0yLjc5NS0xLjk2NS0xLjgwMS4xNi00LjIwNy0xLjc3My01LjM1LTMuMDgtLjctLjgwMi0yLjMyLTIuNTE3LTMuODU4LTQuMTIzYTExLjA1MiAxMS4wNTIgMCAwMC0yLjA0NiA2LjM5M0ExMS4wNTIgMTEuMDUyIDAgMTAxMi45NDggMS4xMzZjLTIuNjQuMDA0LTUuMTkuOTU0LTcuMTkgMi42NzZ6bTguNzEgNy41NTJjLS41MTUuMTI2LS45NjguODMxLTEuMTE4IDEuMzA2LS4wMzguMTE1LS4wNC4zMDMuMDY2LjM0Mi44MDIuNTkyIDEuNTU2IDEuMTY4IDIuNCAxLjcuMTYyLS4zOTMuNzQ2LS45NjMgMS4wOTYtMS4yem0tMTEuNTMgMS42MzljLjgxMiAxLjg5OCA1Ljc5OCA3LjE3IDEyLjA2IDIuNjk1YTIuMDcgMi4wNyAwIDAwLjExNC43MTVjLjQ2IDEuNDIgMi4zNiAyLjQyNyAxLjIzOCAzLjg5LTIuMTM1IDEuMzY0LTUgMS4yMDEtNi45ODkuNTI4LTMuNTU4LTEuMjA0LTUuOTE0LTQuMzMyLTYuNDI0LTcuODI4em0xMy43ODIuN2EuNzcxLjc3MSAwIDAwLS4wNjUuMDQ5Yy0uMDA0LjAwMy0uMDA4LjAwOC0uMDExLjAwOC4wMDMtLjAwMy4wMDctLjAwOC4wMS0uMDA4LjAyNC0uMDE1LjA0NC0uMDM0LjA2Ni0uMDQ4eiIvPjwvc3ZnPg==" width="100"></td>
-        <td><img src="https://skillicons.dev/icons?i=blender" width="100"></td>
-   </tr>
-  </table>
+        <td><img alt="Figma" src="https://skillicons.dev/icons?i=figma" width="100"></td>
+        <td><img alt="Blender" src="https://skillicons.dev/icons?i=blender" width="100"></td>
+    </tr>
+</table>
 
 ## 💻 Coding Aspirations
 
