@@ -10,61 +10,75 @@ Let’s build something meaningful.
 
 ### 🧠 Programming Languages:
 
-<img src="https://skillicons.dev/icons?i=c" width="50"/>
-<img src="https://skillicons.dev/icons?i=cpp" width="50"/>
-<img src="https://skillicons.dev/icons?i=cs" width="50"/>
-<img src="https://skillicons.dev/icons?i=python" width="50"/>
-<img src="https://skillicons.dev/icons?i=rust" width="50"/>
-<img src="https://skillicons.dev/icons?i=golang" width="50"/>
+<p>
+    <img src="https://skillicons.dev/icons?i=c" width="50"/>
+    <img src="https://skillicons.dev/icons?i=cpp" width="50"/>
+    <img src="https://skillicons.dev/icons?i=cs" width="50"/>
+    <img src="https://skillicons.dev/icons?i=python" width="50"/>
+    <img src="https://skillicons.dev/icons?i=rust" width="50"/>
+    <img src="https://skillicons.dev/icons?i=golang" width="50"/>
+</p>
 
 ### 🎨 Frontend:
 
-<img src="https://skillicons.dev/icons?i=html" width="50"/>
-<img src="https://skillicons.dev/icons?i=css" width="50"/>
-<img src="https://skillicons.dev/icons?i=js" width="50"/>
-<img src="https://skillicons.dev/icons?i=typescript" width="50"/>
-<img src="https://skillicons.dev/icons?i=react" width="50"/>
-<img src="https://skillicons.dev/icons?i=angular" width="50"/>
-<img src="https://skillicons.dev/icons?i=vue" width="50"/>
-<img src="https://skillicons.dev/icons?i=nextjs" width="50"/>
-<img src="https://skillicons.dev/icons?i=nuxtjs" width="50"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" width="50"/>
+<p>
+    <img src="https://skillicons.dev/icons?i=html" width="50"/>
+    <img src="https://skillicons.dev/icons?i=css" width="50"/>
+    <img src="https://skillicons.dev/icons?i=js" width="50"/>
+    <img src="https://skillicons.dev/icons?i=typescript" width="50"/>
+    <img src="https://skillicons.dev/icons?i=react" width="50"/>
+    <img src="https://skillicons.dev/icons?i=angular" width="50"/>
+    <img src="https://skillicons.dev/icons?i=vue" width="50"/>
+    <img src="https://skillicons.dev/icons?i=nextjs" width="50"/>
+    <img src="https://skillicons.dev/icons?i=nuxtjs" width="50"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/>
+</p>
 
 ### 🔧 Backend:
 
-<img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
-<img src="https://skillicons.dev/icons?i=express" width="50"/>
-<img src="https://skillicons.dev/icons?i=nestjs" width="50"/>
+<p>
+    <img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
+    <img src="https://skillicons.dev/icons?i=express" width="50"/>
+    <img src="https://skillicons.dev/icons?i=nestjs" width="50"/>
+</p>
 
 ### 🗄 Databases:
 
-<img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
-<img src="https://skillicons.dev/icons?i=postgresql" width="50"/>
-<img src="https://skillicons.dev/icons?i=redis" width="50"/>
+<p>
+    <img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
+    <img src="https://skillicons.dev/icons?i=postgresql" width="50"/>
+    <img src="https://skillicons.dev/icons?i=redis" width="50"/>
+</p>
 
 ### 📱 Cross-platform & Mobile Development:
 
-<img src="https://skillicons.dev/icons?i=tauri" width="50"/>
-<img src="https://skillicons.dev/icons?i=electron" width="50"/>
-<img src="https://skillicons.dev/icons?i=androidstudio" width="50"/>
+<p>
+    <img src="https://skillicons.dev/icons?i=tauri" width="50"/>
+    <img src="https://skillicons.dev/icons?i=electron" width="50"/>
+    <img src="https://skillicons.dev/icons?i=androidstudio" width="50"/>
+</p>
 
 ### 🎮 Game Development:
 
-<img src="https://skillicons.dev/icons?i=godot" width="50"/>
-<img src="https://skillicons.dev/icons?i=unity" width="50"/>
-<img src="https://skillicons.dev/icons?i=unreal" width="50"/>
-<img src="https://icon.icepanel.io/Technology/svg/Ren%27Py.svg" width="50" alt="RenPy"/>
+<p>
+    <img src="https://skillicons.dev/icons?i=godot" width="50"/>
+    <img src="https://skillicons.dev/icons?i=unity" width="50"/>
+    <img src="https://skillicons.dev/icons?i=unreal" width="50"/>
+    <img src="https://icon.icepanel.io/Technology/svg/Ren%27Py.svg" width="50" alt="RenPy"/>
+</p>
 
 ### 🛠 Tools & Utilities:
 
-<img src="https://skillicons.dev/icons?i=docker" width="50"/>
-<img src="https://skillicons.dev/icons?i=git" width="50"/>
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/>
-<img src="https://skillicons.dev/icons?i=markdown" width="50"/>
-<img src="https://skillicons.dev/icons?i=bash" width="50"/>
-<img src="https://skillicons.dev/icons?i=linux" width="50"/>
-<img src="https://skillicons.dev/icons?i=figma" width="50"/>
-<img src="https://skillicons.dev/icons?i=blender" width="50"/>
+<p>
+    <img src="https://skillicons.dev/icons?i=docker" width="50"/>
+    <img src="https://skillicons.dev/icons?i=git" width="50"/>
+    <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+    <img src="https://skillicons.dev/icons?i=markdown" width="50"/>
+    <img src="https://skillicons.dev/icons?i=bash" width="50"/>
+    <img src="https://skillicons.dev/icons?i=linux" width="50"/>
+    <img src="https://skillicons.dev/icons?i=figma" width="50"/>
+    <img src="https://skillicons.dev/icons?i=blender" width="50"/>
+</p>
 
 ## 💻 Coding Aspirations
 
@@ -79,16 +93,19 @@ Let’s build something meaningful.
 - Staying curious and open to new technologies and paradigms 🌱
 </div>
 
+<br/>
+<br/>
+
 ## 📊 GitHub Stats:
 
 <br/>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NikitaBerezhnyj&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="60%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=NikitaBerezhnyj&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="50%"/>
     <br/>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaBerezhnyj&theme=radical&layout=compact" width="60%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaBerezhnyj&theme=radical&layout=compact" width="50%"/>
     <br/>
     <br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=NikitaBerezhnyj&row=2&column=3&theme=radical" width="60%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=NikitaBerezhnyj&row=2&column=3&theme=radical" width="50%"/>
 </p>
