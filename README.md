@@ -1,108 +1,94 @@
-# Hi 👋, I'm Nikita Berezhnyj
+# 👋 Hi, I'm Nikita Berezhnyj
 
-**_I'm a budding software developer from Ukraine :ukraine:_** with a keen interest in various facets of software development. My focus is on creating projects that inspire me and allow me to grow. I have hands-on experience with languages and technologies such as C, C++, C#, Python, Rust, Tauri, JavaScript, HTML, CSS, Bootstrap, React, Godot, Ren'Py, and others. Additionally, I'm well-versed in using Git and navigating Linux environments.
+I'm a Software Engineering student from Ukraine 🇺🇦, passionate about designing and building software across different domains.
 
-My journey is fueled by a desire to learn continually and to evolve into a skilled software developer.
+My journey in software development is driven by curiosity and a deep desire to understand how things work under the hood — from system programming and game development to cross-platform applications and creative tools. I enjoy turning ideas into working code, learning new technologies, and constantly challenging myself with ambitious projects.
 
-## 🌐 Socials:
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikita.berezhnyj@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikita-berezhnyj-4b63b3264)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22724284)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/nik.names.391)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/donthavenikname)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/donthavenikname)
+Let’s build something meaningful.
 
 ## 💻 Skill Stack:
 
-<table>
-    <tr>
-        <td><img alt="C" src="https://skillicons.dev/icons?i=c" width="100"></td>
-        <td><img alt="C++" src="https://skillicons.dev/icons?i=cpp" width="100"></td>
-        <td><img alt="C#" src="https://skillicons.dev/icons?i=cs" width="100"></td>
-        <td><img alt="Python" src="https://skillicons.dev/icons?i=python" width="100"></td>
-        <td><img alt="Rust" src="https://skillicons.dev/icons?i=rust" width="100"></td>
-        <td><img alt="HTML" src="https://skillicons.dev/icons?i=html" width="100"></td>
-        <td><img alt="CSS" src="https://skillicons.dev/icons?i=css" width="100"></td>
-        <td><img alt="JavaScript" src="https://skillicons.dev/icons?i=js" width="100"></td>
-        <td><img alt="TypeScript" src="https://skillicons.dev/icons?i=typescript" width="100"></td>
-    </tr>
-    <tr>
-        <td><img alt="React" src="https://skillicons.dev/icons?i=react" width="100"></td>
-        <td><img alt="NodeJS" src="https://skillicons.dev/icons?i=nodejs" width="100"></td>
-        <td><img alt="Express" src="https://skillicons.dev/icons?i=express" width="100"></td>
-        <td><img alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" width="100"></td>
-        <td><img alt="NextJS" src="https://skillicons.dev/icons?i=nextjs" width="100"></td>
-        <td><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" width="100"></td>
-        <td><img alt="Tauri" src="https://skillicons.dev/icons?i=tauri" width="100"></td>
-        <td><img alt="Godot" src="https://skillicons.dev/icons?i=godot" width="100"></td>
-        <td><img alt="RenPy" src="https://icon.icepanel.io/Technology/svg/Ren%27Py.svg" width="100"></td>
-    </tr>
-    <tr>
-        <td><img alt="Android Studio" src="https://skillicons.dev/icons?i=androidstudio" width="100"></td>
-        <td><img alt="Docker" src="https://skillicons.dev/icons?i=docker" width="100"></td>
-        <td><img alt="GitHub" src="https://skillicons.dev/icons?i=github" width="100"></td>
-        <td><img alt="VS Code" src="https://skillicons.dev/icons?i=vscode" width="100"></td>
-        <td><img alt="Markdown" src="https://skillicons.dev/icons?i=markdown" width="100"></td>
-        <td><img alt="Shell" src="https://skillicons.dev/icons?i=bash" width="100"></td>
-        <td><img alt="Linux" src="https://skillicons.dev/icons?i=linux" width="100"></td>
-        <td><img alt="Figma" src="https://skillicons.dev/icons?i=figma" width="100"></td>
-        <td><img alt="Blender" src="https://skillicons.dev/icons?i=blender" width="100"></td>
-    </tr>
-</table>
+### 🧠 Programming Languages:
+
+<img src="https://skillicons.dev/icons?i=c" width="50"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="50"/>
+<img src="https://skillicons.dev/icons?i=cs" width="50"/>
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
+<img src="https://skillicons.dev/icons?i=rust" width="50"/>
+<img src="https://skillicons.dev/icons?i=golang" width="50"/>
+
+### 🎨 Frontend:
+
+<img src="https://skillicons.dev/icons?i=html" width="50"/>
+<img src="https://skillicons.dev/icons?i=css" width="50"/>
+<img src="https://skillicons.dev/icons?i=js" width="50"/>
+<img src="https://skillicons.dev/icons?i=typescript" width="50"/>
+<img src="https://skillicons.dev/icons?i=react" width="50"/>
+<img src="https://skillicons.dev/icons?i=angular" width="50"/>
+<img src="https://skillicons.dev/icons?i=vue" width="50"/>
+<img src="https://skillicons.dev/icons?i=nextjs" width="50"/>
+<img src="https://skillicons.dev/icons?i=nuxtjs" width="50"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" width="50"/>
+
+### 🔧 Backend:
+
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
+<img src="https://skillicons.dev/icons?i=express" width="50"/>
+<img src="https://skillicons.dev/icons?i=nestjs" width="50"/>
+
+### 🗄 Databases:
+
+<img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
+<img src="https://skillicons.dev/icons?i=postgresql" width="50"/>
+<img src="https://skillicons.dev/icons?i=redis" width="50"/>
+
+### 📱 Cross-platform & Mobile Development:
+
+<img src="https://skillicons.dev/icons?i=tauri" width="50"/>
+<img src="https://skillicons.dev/icons?i=electron" width="50"/>
+<img src="https://skillicons.dev/icons?i=androidstudio" width="50"/>
+
+### 🎮 Game Development:
+
+<img src="https://skillicons.dev/icons?i=godot" width="50"/>
+<img src="https://skillicons.dev/icons?i=unity" width="50"/>
+<img src="https://skillicons.dev/icons?i=unreal" width="50"/>
+<img src="https://icon.icepanel.io/Technology/svg/Ren%27Py.svg" width="50" alt="RenPy"/>
+
+### 🛠 Tools & Utilities:
+
+<img src="https://skillicons.dev/icons?i=docker" width="50"/>
+<img src="https://skillicons.dev/icons?i=git" width="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+<img src="https://skillicons.dev/icons?i=markdown" width="50"/>
+<img src="https://skillicons.dev/icons?i=bash" width="50"/>
+<img src="https://skillicons.dev/icons?i=linux" width="50"/>
+<img src="https://skillicons.dev/icons?i=figma" width="50"/>
+<img src="https://skillicons.dev/icons?i=blender" width="50"/>
 
 ## 💻 Coding Aspirations
 
 <div style="width: 100%;">
 <br/>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47l2ijur41ny12c40p1k1zhrdr3nk6np5bkhve0c4f&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="45%" />
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5hY3Nkc2N3bWtrN3BtamFjN3V6czRjZnA3b2lreXJpM2wxNWJrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="35%" />
 
 - Exploring the depth of programming 🚀
 - Strengthening the foundation in different languages and technologies ⌨️
 - Delve into compiler design and create my own programming language 🧪
-- Developing my own Linux distribution 🐧
-- Continuous development of new areas 🎨
+- Building useful and creative software ⚙️
+- Staying curious and open to new technologies and paradigms 🌱
 </div>
-
-<br/>
-<br/>
-<br/>
-
-<img align="left" src="https://visitcount.itsvg.in/api?id=NikitaBerezhnyj&icon=0&color=0" />
-
-<img align="right" src="https://img.shields.io/github/followers/NikitaBerezhnyj?label=Follow&style=social" />
-
-<br/>
-<br/>
 
 ## 📊 GitHub Stats:
 
-<table>
-    <thead>
-        <tr>
-            <th style="width: 50%; padding: 10px;">
-                <div style="width: 100%; height: 100%;">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaBerezhnyj&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 100%;">
-                </div>
-            </th>
-            <th style="width: 50%; padding: 10px;">
-                <div style="width: 100%; height: 100%;">
-                    <img align="center" src="https://github-profile-trophy.vercel.app/?username=NikitaBerezhnyj&row=2&column=3&theme=radical" style="max-width: 100%;">
-                </div>
-            </th>
-        </tr>
-        <tr>
-            <th style="width: 50%; padding: 10px;">
-                <div style="width: 100%; height: 100%;">
-                    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NikitaBerezhnyj&theme=radical&hide_border=false" style="width: 100%;">
-                </div>
-            </th>
-            <th style="width: 50%; padding: 10px;">
-                <div style="width: 100%; height: 100%">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api?username=NikitaBerezhnyj&theme=radical&hide_border=false&include_all_commits=false&count_private=false" style="width: 100%;">
-                </div>
-            </th>
-        </tr>
-    </thead>
+<br/>
 
-</table>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=NikitaBerezhnyj&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="60%"/>
+    <br/>
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaBerezhnyj&theme=radical&layout=compact" width="60%"/>
+    <br/>
+    <br/>
+    <img src="https://github-profile-trophy.vercel.app/?username=NikitaBerezhnyj&row=2&column=3&theme=radical" width="60%"/>
+</p>
