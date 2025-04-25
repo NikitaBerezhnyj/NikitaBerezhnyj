@@ -82,15 +82,17 @@ Let’s build something meaningful.
 
 ## 💻 Coding Aspirations
 
-<div style="width: 100%;">
 <br/>
-<img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5hY3Nkc2N3bWtrN3BtamFjN3V6czRjZnA3b2lreXJpM2wxNWJrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="35%" />
 
-- Exploring the depth of programming 🚀
-- Strengthening the foundation in different languages and technologies ⌨️
-- Delve into compiler design and create my own programming language 🧪
-- Building useful and creative software ⚙️
-- Staying curious and open to new technologies and paradigms 🌱
+<div style="display: flex; align-items: center;">
+    <ul style="margin-right: 20px;">
+        <li>Exploring the depth of programming 🚀</li>
+        <li>Strengthening the foundation in different languages and technologies ⌨️</li>
+        <li>Delve into compiler design and create my own programming language 🧪</li>
+        <li>Building useful and creative software ⚙️</li>
+        <li>Staying curious and open to new technologies and paradigms 🌱</li>
+    </ul>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5hY3Nkc2N3bWtrN3BtamFjN3V6czRjZnA3b2lreXJpM2wxNWJrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="35%" alt="GIF" />
 </div>
 
 <br/>
