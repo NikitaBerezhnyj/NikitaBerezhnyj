@@ -86,6 +86,8 @@ Let’s build something meaningful.
 <br/>
 <img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5hY3Nkc2N3bWtrN3BtamFjN3V6czRjZnA3b2lreXJpM2wxNWJrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="35%" />
 
+<br/>
+
 - Exploring the depth of programming 🚀
 - Strengthening the foundation in different languages and technologies ⌨️
 - Delve into compiler design and create my own programming language 🧪
